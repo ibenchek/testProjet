@@ -1,2 +1,2 @@
 # testProjet
-Apprentissage des commandes git
+Pour cloner ce projet utiliser le URL :
